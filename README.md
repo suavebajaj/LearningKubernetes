@@ -24,10 +24,9 @@ Kubernetes Resources
 
 ---
 
-## My Progress - #100DaysOfKubernetes
+## My Profile
 
-- [My Twitter](https://twitter.com/rishabk7)
-- [My LinkedIn](https://www.linkedin.com/in/rishabkumar7)
+- [My LinkedIn](https://www.linkedin.com/in/suavebajaj/)
 
 ## Stepping out the door
 
